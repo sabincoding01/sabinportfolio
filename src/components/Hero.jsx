@@ -19,7 +19,7 @@ const Hero = () => {
       </h1>
 
       <p className='mt-4 text-lg text-gray-300'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, voluptatum.
+      Front-end web developer skilled in React, CSS, and responsive design.
       </p>
 
       <div className='mt-8 space-x-4'>
